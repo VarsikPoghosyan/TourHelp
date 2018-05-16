@@ -1,0 +1,59 @@
+{
+	"Multi Rest House": {
+		"reservation_list": [{
+			"start_date": 300418,
+			"end_date": 180518,
+			"room_number": 20,
+			"number_of_persons": 2,
+			"payment": 120000
+		}, {
+			"start_date": 300418,
+			"end_date": 180518,
+			"room_number": 20,
+			"number_of_persons": 2,
+			"payment": 120000
+		}],
+		"location": " Tsaxkadzor",
+		"rating": 3
+	},
+
+
+	"Dilijan Resort": {
+		"reservation_list": [{
+			"start_date": 300418,
+			"end_date": 120518,
+			"room_number": 21,
+			"number_of_persons": 2,
+			"payment": 100000
+		}],
+		"location": "Dilijan",
+		"rating": 4
+	},
+
+
+
+	"Mariot": {
+		"reservation_list": [{
+			"start_date": 300518,
+			"end_date": 150618,
+			"room_number": 33,
+			"number_of_persons": 1,
+			"payment": 60000
+		}],
+		"location": "Yerevan",
+		"rating": 5
+	},
+
+"Opera": {
+		"reservation_list": [{
+			"start_date": 200518,
+			"end_date": 300618,
+			"room_number": 4,
+			"number_of_persons": 2,
+			"payment": 30000
+		}],
+		"location": "Yerevan",
+		"rating": 4
+	}
+
+}

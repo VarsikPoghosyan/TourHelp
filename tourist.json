@@ -1,0 +1,19 @@
+{
+
+		"date": {
+			"start_date": 0,
+			"end_date": 0
+		},
+		"cost": {
+			"low": 0,
+			"high": 0
+		},
+		"rating": {
+			"low": 0,
+			"high": 0
+		},
+		"number_people": 0,
+
+
+	 "location": 0
+}
